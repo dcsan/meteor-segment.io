@@ -1,8 +1,8 @@
 Package.describe({
   summary: "Segment.io integration for Meteor (works on both client and server)",
-  version: "1.1.0_1",
-  name: "percolatestudio:segment.io",
-  git: "https://github.com/percolatestudio/meteor-segment.io.git"
+  version: "4.0.0",
+  name: "dcsan:segment.io",
+  git: "https://github.com/dcsan/meteor-segment.io.git"
 });
 
 Npm.depends({
@@ -10,8 +10,9 @@ Npm.depends({
 });
 
 Package.on_use(function (api) {
-  api.versionsFrom('METEOR@0.9.4');
+  api.versionsFrom('METEOR@1.0');
   api.addFiles('snippet.js', 'client');
   api.addFiles('server.js', 'server');
   api.export('analytics');
+  console.log("-- api.use segment io ")
 });

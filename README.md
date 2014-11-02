@@ -8,6 +8,13 @@ The segment.io snippet is copied almost verbatim from the [docs](https://segment
 
 Snippet version is `2.0.9`.
 
+at time of writing, 4.0.0 is latest version of this package so install with:
+
+    meteor add dcsan:segmentio
+
+> (fork of percolate:segmentio)
+see [this issue](https://github.com/percolatestudio/meteor-segment.io/issues/6)
+
 #### Server
 
 Using official `analytics-node` npm module.
