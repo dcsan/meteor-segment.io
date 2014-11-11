@@ -30,7 +30,7 @@
     ],
     [
       "aldeed:autoform",
-      "4.0.0-rc6"
+      "4.0.1"
     ],
     [
       "aldeed:collection2",
@@ -39,10 +39,6 @@
     [
       "aldeed:simple-schema",
       "1.1.0"
-    ],
-    [
-      "aldeed:template-extension",
-      "2.0.0"
     ],
     [
       "application-configuration",
@@ -101,19 +97,39 @@
       "0.0.1"
     ],
     [
-      "dcsan:cards",
+      "dcsan:dclib",
+      "0.0.2"
+    ],
+    [
+      "dcsan:deck",
       "0.0.1"
     ],
     [
-      "dcsan:dclib",
+      "dcsan:komik",
       "0.0.2"
+    ],
+    [
+      "dcsan:landing",
+      "0.0.1"
     ],
     [
       "dcsan:layouts",
       "0.0.1"
     ],
     [
+      "dcsan:lessons",
+      "0.0.2"
+    ],
+    [
       "dcsan:loco",
+      "0.0.1"
+    ],
+    [
+      "dcsan:magnets",
+      "0.0.1"
+    ],
+    [
+      "dcsan:mapx",
       "0.0.1"
     ],
     [
@@ -125,12 +141,20 @@
       "0.0.2"
     ],
     [
+      "dcsan:pairs",
+      "0.0.1"
+    ],
+    [
+      "dcsan:reactive-ace",
+      "0.0.44"
+    ],
+    [
       "dcsan:segment.io",
       "4.0.0"
     ],
     [
-      "dcsan:yogiben-admin",
-      "0.9.6"
+      "dcsan:sly",
+      "1.2.7_1"
     ],
     [
       "ddp",
@@ -170,6 +194,10 @@
     ],
     [
       "geojson-utils",
+      "1.0.1"
+    ],
+    [
+      "handlebars",
       "1.0.1"
     ],
     [
@@ -215,6 +243,10 @@
     [
       "json",
       "1.0.1"
+    ],
+    [
+      "kaptron:minimongoid",
+      "0.9.1"
     ],
     [
       "launch-screen",
@@ -297,16 +329,24 @@
       "0.2.8"
     ],
     [
+      "mrt:leaflet",
+      "0.0.1"
+    ],
+    [
       "mrt:moment",
       "2.6.0"
     ],
     [
+      "mrt:underscore-string-latest",
+      "2.3.3"
+    ],
+    [
       "nemo64:bootstrap",
-      "3.2.3"
+      "3.3.0_1"
     ],
     [
       "nemo64:bootstrap-data",
-      "3.2.0-rc2"
+      "3.3.0_1"
     ],
     [
       "npm-bcrypt",
@@ -338,7 +378,7 @@
     ],
     [
       "raix:handlebar-helpers",
-      "0.1.2"
+      "0.1.3"
     ],
     [
       "random",
@@ -371,6 +411,10 @@
     [
       "sacha:spin",
       "2.0.4"
+    ],
+    [
+      "sergeyt:d3",
+      "3.4.1"
     ],
     [
       "service-configuration",
@@ -443,6 +487,10 @@
     [
       "webapp-hashing",
       "1.0.1"
+    ],
+    [
+      "yogiben:admin",
+      "1.0.3"
     ]
   ],
   "pluginDependencies": [],
